@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mockito.MockitoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-15T10:53:23" hostname="rageshwari" time="3.799">
+  <properties/>
+  <testcase name="CustomerReaderTest" classname="mockito.MockitoTest" time="3.796"/>
+  <testcase name="testQuery" classname="mockito.MockitoTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
